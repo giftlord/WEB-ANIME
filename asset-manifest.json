@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/WEB-ANIME/static/css/main.1c0d3651.css",
+    "main.js": "/WEB-ANIME/static/js/main.963a0149.js",
+    "static/js/787.68005286.chunk.js": "/WEB-ANIME/static/js/787.68005286.chunk.js",
+    "static/media/wallpaperflare.com_wallpaper.jpg": "/WEB-ANIME/static/media/wallpaperflare.com_wallpaper.cadfe2a0de1d51260ef6.jpg",
+    "static/media/AOT.jpg": "/WEB-ANIME/static/media/AOT.3de3fd59b9b01f9cd55b.jpg",
+    "static/media/Naruto.jpg": "/WEB-ANIME/static/media/Naruto.1e75bba09d7cb83af0b7.jpg",
+    "static/media/kingdom-season-4.jpg": "/WEB-ANIME/static/media/kingdom-season-4.b6087b27eca7725b8ab7.jpg",
+    "static/media/Classroom of the elite.jpg": "/WEB-ANIME/static/media/Classroom of the elite.3ca577159219264f1f3c.jpg",
+    "static/media/KNY.jpg": "/WEB-ANIME/static/media/KNY.8c65ee84437f72ca1ff6.jpg",
+    "static/media/Bleach.jpg": "/WEB-ANIME/static/media/Bleach.ef94b395a33c025d977a.jpg",
+    "static/media/Op.jpg": "/WEB-ANIME/static/media/Op.e8c89439e19d2cf7fa33.jpg",
+    "static/media/summer-time-rendering.jpg": "/WEB-ANIME/static/media/summer-time-rendering.a465266dcddf52a3330e.jpg",
+    "static/media/kaguya-sama-wa-kokurasetai-ultra-romantic.jpg": "/WEB-ANIME/static/media/kaguya-sama-wa-kokurasetai-ultra-romantic.4c92e0ab6da167afaa5a.jpg",
+    "static/media/Boruto.jpg": "/WEB-ANIME/static/media/Boruto.97f3798a5d67b2f39b13.jpg",
+    "static/media/Tokyoghoul.jpg": "/WEB-ANIME/static/media/Tokyoghoul.03d86d90afe0f7411f9f.jpg",
+    "static/media/spy x family.jpg": "/WEB-ANIME/static/media/spy x family.586e7492127a72704b6c.jpg",
+    "index.html": "/WEB-ANIME/index.html",
+    "main.1c0d3651.css.map": "/WEB-ANIME/static/css/main.1c0d3651.css.map",
+    "main.963a0149.js.map": "/WEB-ANIME/static/js/main.963a0149.js.map",
+    "787.68005286.chunk.js.map": "/WEB-ANIME/static/js/787.68005286.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c0d3651.css",
+    "static/js/main.963a0149.js"
+  ]
+}
